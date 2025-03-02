@@ -25,7 +25,7 @@
   <a href="https://github.com/vicjeremy/blog-api/issues/">
     <img src="https://img.shields.io/github/issues/vicjeremy/blog-api" alt="open issues" />
   </a>
-  <a href="https://github.com/vicjeremy/blog-api/blob/master/LICENSE.txt">
+  <a href="https://github.com/vicjeremy/blog-api/blob/main/LICENSE.txt">
     <img src="https://img.shields.io/github/license/vicjeremy/blog-api.svg" alt="license" />
   </a>
 </p>
