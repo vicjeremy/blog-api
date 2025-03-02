@@ -116,12 +116,12 @@ Go to the project directory
 ```bash
   cd blog-api
 ```
-Preparing .Env
+Preparing .env
 
 ```bash
   touch .env
 ```
-Set up database url
+Set up database url in .env
 
 ```env
   DB_URL="postgresql://<username>:<password>@<ip>:<port>/<database_name>?sslmode=disabled"
@@ -138,7 +138,6 @@ Run the project
 <!-- Usage -->
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Contributing -->
 
